@@ -1,16 +1,14 @@
-## Hi there 👋
+# Tanya Donska
 
-<!--
-**tanya-donska/tanya-donska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I fix UX problems in enterprise products. Occasionally write code to make design work less annoying.
 
-Here are some ideas to get you started:
+**Recent work:**
+- Deutsche Telekom: Internal data hub UX (25% → 68% adoption)
+- IQVIA: Clinical trial portal redesign
+- D.E. Shaw: Admin workflow optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Writing:**
+- [When AI Tools Train on AI Output: Model Collapse in Daily Workflows](https://cacm.acm.org/blogcacm/when-ai-tools-train-on-ai-output-model-collapse-in-daily-workflows/) (ACM)
+- [More at dnsk.work/blog](https://dnsk.work/blog)
+
+UK Global Talent | Awwwards Judge | [dnsk.work](https://dnsk.work)
